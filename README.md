@@ -1,16 +1,60 @@
-## Hi there 👋
+# Hi there! 👋 I'm Nicolás Méndez
 
-<!--
-**N1k0Mendez/N1k0Mendez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering student from Argentina 🇦🇷
 
-Here are some ideas to get you started:
+I'm a **Certified Full-Stack Web Developer** passionate about building software that solves real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I'm expanding my knowledge in **Backend Development** and **Artificial Intelligence**, while continuously improving my software engineering skills.
+
+---
+
+## 🚀 About Me
+
+- 💻 Certified Full-Stack Web Developer
+- 🎓 Computer Engineering Student
+- 🤖 Currently learning Artificial Intelligence
+- 🌱 Always learning new technologies
+- 📈 Interested in Finance & Investing
+- ✈️ Aviation enthusiast
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+- C++
+- JavaScript
+- HTML
+- CSS
+
+### Frontend
+
+- React
+
+### Currently Learning
+
+- Python
+- Backend Development
+- SQL
+- Artificial Intelligence
+
+---
+
+## 📌 Goals for 2026
+
+- Build a professional GitHub portfolio
+- Master Python
+- Learn Backend Development
+- Start developing AI projects
+- Get my first Software Engineering internship
+
+---
+
+## 📫 Contact
+
+📧 your-email@example.com
+
+---
+
+> *"Small improvements every day lead to extraordinary results."*
