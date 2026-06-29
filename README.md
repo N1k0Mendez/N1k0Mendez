@@ -1,35 +1,35 @@
 <h1 align="center">Nicolás Méndez</h1>
 
 <p align="center">
-  Computer Engineering student focused on full-stack development, backend systems, and applied AI.
+  Full-Stack Web Developer | Computer Engineering Student | Backend and AI Learner
 </p>
 
 <p align="center">
   <a href="mailto:nicolasmarcelomendezcervetto@gmail.com">
-    <img src="https://img.shields.io/badge/Email-nicolasmarcelomendezcervetto%40gmail.com-7FB3A7?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Contact-Email-7FB3A7?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <img src="https://img.shields.io/badge/Location-Buenos%20Aires,%20Argentina-87A8D0?style=flat-square" alt="Location" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20learning%20and%20building-E88F7A?style=flat-square" alt="Status" />
+  <img src="https://img.shields.io/badge/Based%20in-Buenos%20Aires-87A8D0?style=flat-square" alt="Location" />
+  <img src="https://img.shields.io/badge/Focus-Web%20Development%20%26%20AI-E88F7A?style=flat-square" alt="Focus" />
 </p>
 
 ---
 
 ### About
 
-I am a Computer Engineering student from Argentina and a UTN-certified Full-Stack Web Developer. I enjoy building clean, practical web applications and improving them beyond the first working version: better structure, better user experience, clearer documentation, and more maintainable code.
+I build practical web applications and enjoy improving them beyond the first working version: clearer structure, better user experience, readable documentation, and maintainable code.
 
-Currently, I am strengthening my backend development skills while exploring artificial intelligence and software engineering practices that help turn ideas into reliable products.
+My current path combines Computer Engineering, full-stack development, backend fundamentals, and applied AI. I am especially interested in projects where design, logic, and product thinking meet.
 
 <!-- TODO: Add portfolio URL when available. -->
 <!-- TODO: Add LinkedIn URL when ready. -->
-<!-- TODO: Add preferred professional title if you want a more specific headline. -->
+<!-- TODO: Add CV/resume URL if you want recruiters to access it directly. -->
 
 ### Current Focus
 
 - Backend development and API design
 - React applications with polished UI and readable code
 - Artificial intelligence fundamentals and applied tools
-- Software engineering habits: documentation, version control, testing, and refactoring
+- Documentation, version control, testing, and refactoring habits
 
 ### Tech Stack
 
@@ -61,17 +61,15 @@ Currently, I am strengthening my backend development skills while exploring arti
     <td width="50%">
       <h3>Pokemon API V2</h3>
       <p>A polished Pokedex project built with React, Vite, and PokeAPI. It includes partial search, responsive design, soft UI styling, keyboard navigation, and improved documentation.</p>
-      <p>
-        <a href="https://github.com/N1k0Mendez/Pokemon-API-V2">Repository</a>
-      </p>
+      <p><a href="https://github.com/N1k0Mendez/Pokemon-API-V2">View repository</a></p>
     </td>
     <td width="50%">
-      <h3>What I improved</h3>
+      <h3>Highlights</h3>
       <ul>
-        <li>Cleaner project structure and README</li>
-        <li>Improved visual design and responsive layout</li>
         <li>Search by partial name or ID</li>
+        <li>Responsive soft UI design</li>
         <li>Keyboard interaction with Enter and Escape</li>
+        <li>Clean README and production build validation</li>
       </ul>
     </td>
   </tr>
@@ -85,12 +83,3 @@ Currently, I am strengthening my backend development skills while exploring arti
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=N1k0Mendez&show_icons=true&theme=default&hide_border=true&rank_icon=github" alt="GitHub stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=N1k0Mendez&layout=compact&hide_border=true" alt="Top languages" />
 </p>
-
-### Contact
-
-If you want to connect, collaborate, or share feedback, you can reach me at:
-
-- Email: nicolasmarcelomendezcervetto@gmail.com
-- Location: Buenos Aires, Argentina
-
-<!-- TODO: Add LinkedIn, portfolio, or CV links here when available. -->
